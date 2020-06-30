@@ -1,2 +1,2 @@
 # Youtube_sentimental_analysis
-Converts a youtube video to text and check if it has positive, negative or neutral effects.
+Extract comments from a youtube video  and check if it has positive, negative or neutral effects.
